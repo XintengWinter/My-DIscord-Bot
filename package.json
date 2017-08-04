@@ -1,0 +1,19 @@
+{
+  "name": "my-discord-bot",
+  "version": "1.0.0",
+  "description": "Mrs. Mcfeely",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XintengWinter/My-DIscord-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XintengWinter/My-DIscord-Bot/issues"
+  },
+  "homepage": "https://github.com/XintengWinter/My-DIscord-Bot#readme"
+}
